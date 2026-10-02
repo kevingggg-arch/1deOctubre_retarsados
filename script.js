@@ -1,6 +1,6 @@
 const CONFIG = {
 
-    nombreFinal: new URLSearchParams(window.location.search).get("nombre") || "Yessica",
+nombreFinal: new URLSearchParams(window.location.search).get("nombre") || "Yessica",
 
     nombres: [
         "⚜︎Katia☃",
